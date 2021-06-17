@@ -1,0 +1,2 @@
+red 60 M
+blue 90 M

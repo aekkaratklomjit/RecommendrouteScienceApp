@@ -1,0 +1,3 @@
+red 150 M
+blue 180 M
+yellow 200 M
