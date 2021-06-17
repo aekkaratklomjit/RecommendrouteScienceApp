@@ -25,3 +25,6 @@ With that, we come up with the idea of developing a mobile application to sugges
  #### Contract UI
  
  ![image](https://user-images.githubusercontent.com/56069441/122422614-7d1dc580-cfb7-11eb-8da3-83d7f31fd8b5.png)
+ 
+ ### License
+ Aekkarat Klomjit , Khon Kaen University
